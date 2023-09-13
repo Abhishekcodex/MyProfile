@@ -1,6 +1,6 @@
 import React from 'react'
 import * as MUI from '@mui/material'
-import * as ICON from '@mui/icons-material'
+// import * as ICON from '@mui/icons-material'
 import NavBar from '../navbar'
 function Contact() {
     return (
